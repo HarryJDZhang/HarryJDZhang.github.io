@@ -10,7 +10,7 @@ order: 0
 <br>
 
 <div align=center>
-<img src="https://cloud.tsinghua.edu.cn/seafhttp/files/18e122cb-3a0c-4a9a-b63c-5b40a9abcc15/portrait-new.png" width=320 />
+<img src="https://git.tsinghua.edu.cn/zhangjd20/mywebsite/-/raw/master/portrait-new.png" width=320 />
 </div>
 
 
