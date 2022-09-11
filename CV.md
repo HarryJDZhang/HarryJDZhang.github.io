@@ -7,6 +7,8 @@ ref: cv
 order: 0
 ---
 
+<br>
+
 <div align=center>
 <img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/portrait-new.png?raw=true" width=320 />
 </div>
