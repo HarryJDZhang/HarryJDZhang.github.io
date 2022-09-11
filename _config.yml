@@ -1,5 +1,5 @@
 title: Contributing for a better world
-description: Welcome to the personal website of Harry J. D. Zhang!
+description: Welcome to the personal website of J.-D. Zhang!
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['Works', 'CV', 'Contact']
