@@ -20,6 +20,7 @@ author: lorepirri
 image: /thumbnail-jumbo.png
 twitter:
    username: harryjdzhang
+email: zhangjundong19@126.com
 
 plugins:
   - jekyll-target-blank
