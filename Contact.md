@@ -13,7 +13,7 @@ order: 1
 
 **E-mail**: zhangjundong19@126.com
 
-**Address**: Tsinghua University, 30 Shuangqing Rd, Haidian District, Beijing, People's Republic of China.
+**Address**: Tsinghua University, 30 Shuangqing Rd, Haidian District, Beijing, People's Republic of China
 
 **Postal Code**: 100084
 
