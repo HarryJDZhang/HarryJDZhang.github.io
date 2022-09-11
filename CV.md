@@ -21,4 +21,5 @@ Jun-Dong Zhang holds optimistic attitudes toward the development of science and 
 
 Apart from his research efforts, Jun-Dong Zhang also sits as the President of the Students' Association of Science and Technology of Tanwei College. In the meantime, he serves as the leader of the Competition team in the Student Scientific Innovation Center, Tsinghua University.
 
+<br>
 [Go to the Home Page]({{ '/' | absolute_url }})
