@@ -7,7 +7,7 @@ ref: works
 order: 2
 ---
 
-![authorship-1](https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/authorship-1.gif?raw=true)
+![authorship-1](/authorship-1.gif#pic_center)
 1. R. Zhang, X. Shen, Y.-T. Zhang, X.-L. Zhong, H.-T. Ju, T.-X. Huang, X. Chen, **<u>J.-D. Zhang</u>**, J.-Q. Huang * , **Dead lithium formation in lithium metal batteries: A phase field model**, *Journal of Energy Chemistry*, 71 (2022) 29-35. [[URL Link](https://doi.org/10.1016/j.jechem.2021.12.020)]
 
 <br />
