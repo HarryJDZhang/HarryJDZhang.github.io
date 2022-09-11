@@ -3,6 +3,7 @@ layout: page
 title: Contact
 tagline: Contact Jun-Dong Zhang for academic cooperations or other affairs!
 ref: contact
+permalink: /contact.html
 order: 1
 ---
 
