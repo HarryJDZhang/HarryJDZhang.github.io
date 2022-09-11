@@ -11,10 +11,11 @@ But wait ... Building a whole small-sized automobile within 3 months, using mere
 # Here comes the 2022 Tsinghua *Free Energy* Cup!
 <br>
 <center>Current stage of the competition</center>
-<br>
-<center><font face=Tahoma color=red size=5>Open for Registration</font></center>
+<center><font face=Tahoma color=red size=6>Open for Registration</font></center>
 
 [Please CLICK HERE to read the CHINESE version of this article.](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw)
+
+<iframe src="https://cloud.tsinghua.edu.cn/seafhttp/files/90a1b457-f779-4878-bf5b-a60eeba2032e/ChemECar-zh-subbed.mp4">
 
 <br>
 
