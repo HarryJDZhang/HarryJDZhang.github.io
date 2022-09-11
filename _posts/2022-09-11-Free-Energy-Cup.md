@@ -5,16 +5,15 @@ tagline: "Come and join us to build your own chemical-reaction-driven car!"
 author: "J.-D. Zhang"
 ---
 
+Building a whole small-sized automobile within 3 months, using only chemical reactions as power supply and brake control. Is this possible? Our answer is yes.
 
-# Here comes the 2022 Tsinghua *Free Energy* Cup!
+## Here comes the 2022 Tsinghua *Free Energy* Cup!
 <br>
-<center>
-Current stage of the competition
+<center>Current stage of the competition</center>
 
-<font face=Tahoma color=red size=5>Open for Registration</font>
+<center><font face=Tahoma color=red size=5>Open for Registration</font></center>
 
 [Please CLICK HERE to read the CHINESE version of this article.](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw)
-</center>
 
 <br>
 
