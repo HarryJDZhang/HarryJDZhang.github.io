@@ -15,9 +15,10 @@ But wait ... Building a whole small-sized automobile within 3 months, using mere
 
 [Please CLICK HERE to read the CHINESE version of this article.](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw)
 
-![video-gif-compressed](https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/ChemECar-zh-subbed-compressed.gif?raw=true)
-
-<font size=2 color=grey>This video was made several years ago when our senior schoolmates participated in the global AIChE Chem-E-Car Competition. Sincere gratitude to them. We also acknowledge the efforts of Mr. Huanyu LIU, who translated the captions in the video from English to Chinese.</font>
+<div align=center>
+<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/ChemECar-zh-subbed-compressed.gif?raw=true" />
+</div>
+<font size=2 color=grey>This video was made several years ago when our senior schoolmates participated in the global AIChE Chem-E-Car Competition. Sincere respect and gratitude to them and their outstanding work. We also acknowledge the efforts of Mr. Huanyu LIU, who translated the captions in the video from English to Chinese.</font>
 
 <br>
 
