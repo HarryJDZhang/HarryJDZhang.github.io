@@ -8,14 +8,16 @@ Come and join us to build your own chemical-reaction-driven car!
 
 But wait ... Building a whole small-sized automobile within 3 months, using merely chemical or electrochemical reactions as power supply and brake control? Is that actually possible? Our answer is yes.
 
-# Here comes the 2022 Tsinghua *Free Energy* Cup!
+## Here comes the 2022 Tsinghua *Free Energy* Cup!
 <br>
 <center>Current stage of the competition</center>
-<center><font face=Tahoma color=red size=6>Open for Registration</font></center>
+<center><font face=Tahoma color=red size=5>Open for Registration</font></center>
 
 [Please CLICK HERE to read the CHINESE version of this article.](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw)
 
-<iframe src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/ChemECar-zh-subbed-compressed.mkv">
+![video-gif-compressed](https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/ChemECar-zh-subbed-compressed.gif?raw=true)
+
+<font size=2 color=grey>This video was made several years ago when our senior schoolmates participated in the global AIChE Chem-E-Car Competition. Sincere gratitude to them. We also acknowledge the efforts of Mr. Huanyu LIU, who translated the captions in the video from English to Chinese.</font>
 
 <br>
 
