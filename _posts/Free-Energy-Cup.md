@@ -2,7 +2,6 @@
 layout: post
 title: "The 2022 Tsinghua Free Energy Cup is On the Way!"
 tagline: "Come and join us to build your own chemical-reaction-driven car!"
-image: /thumbnail-mobile.png
 author: "J.-D. Zhang"
 ---
 
