@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "The 2022 Tsinghua Free Energy Cup is On the Way!"
-tagline: "Come and join us to build your own chemical-reaction-driven car!"
-author: "J.-D. Zhang"
+title: "The 2022 Tsinghua Free Energy Cup is On the Way"
+author: "Jun-Dong Zhang"
 ---
+Come and join us to build your own chemical-reaction-driven car! But wait .. Building a whole small-sized automobile within 3 months, using merely chemical or electrochemical reactions as power supply and brake control? Is that actually possible? Our answer is yes.
 
-Building a whole small-sized automobile within 3 months, using only chemical reactions as power supply and brake control. Is this possible? Our answer is yes.
-
-## Here comes the 2022 Tsinghua *Free Energy* Cup!
+# Here comes the 2022 Tsinghua *Free Energy* Cup!
 <br>
 <center>Current stage of the competition</center>
 
