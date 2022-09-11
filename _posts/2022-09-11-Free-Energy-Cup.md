@@ -48,7 +48,7 @@ Participants will be offered various and sufficient supports from every aspect:
 Teams that perform excellently in varied dimensions will **be awarded with up to 10,000 RMB _yuan_.** Moreover, participants will surely acquire deeper insights into the combination of scientific theories and engineering techniques, which is invaluable to our future career. So please do not hesistate to join us. The *Free Energy* Cup is waiting for you!
 
 <div align=center>
-<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/poster-v1.jpg?raw=true" width=240 />
+<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/poster-v1.jpg?raw=true" width=320 />
 </div>
 
 **Click [HERE](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw) and then Click "Read the original text" link at the bottom to download and fill the team registration chart.** Please send the filled chart to our official e-mail address (thufreeenergy@163.com) before the due time (GMT+8, 23:59, Sept. 18, 2022).
@@ -56,7 +56,7 @@ Teams that perform excellently in varied dimensions will **be awarded with up to
 **Haven't find your teammate yet?** Don't worry! Scan the QR code below to **join the WeChat Group for potential participants**, where we have numerous enthusiasts with great innovative ideas for the car.
 
 <div align=center>
-<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/QRCode-FreeEnergyCup.jpg?raw=true" width=240 />
+<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/QRCode-FreeEnergyCup.jpg?raw=true" width=180 />
 </div>
 
 <br>
