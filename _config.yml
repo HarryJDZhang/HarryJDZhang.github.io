@@ -1,5 +1,5 @@
 title: Contributing for a better world
-description: Welcome to the personal website of J.-D. Zhang!
+description: Welcome to the personal website of Jun-Dong Zhang!
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -18,8 +18,8 @@ theme: # leave it empty
 # social
 author: lorepirri
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+# twitter:
+#   username: lorepirri
 
 plugins:
   - jekyll-target-blank
