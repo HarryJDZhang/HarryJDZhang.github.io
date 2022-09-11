@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![Pull-request-mergebutton]([https://guides.github.com/activities/hello-world/branching.png](https://docs.github.com/assets/cb-13037/images/help/pull_requests/pullrequest-mergebutton.png))
+![Pull-request-mergebutton](https://docs.github.com/assets/cb-13037/images/help/pull_requests/pullrequest-mergebutton.png)
 
 
 ### Definition lists can be used with HTML syntax.
