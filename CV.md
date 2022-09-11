@@ -7,6 +7,10 @@ ref: cv
 order: 0
 ---
 
+<div align=center>
+<img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/portrait.png?raw=true" width=320 />
+</div>
+
 **Jun-Dong Zhang** is an undergraduate student in [Tanwei College](https://www.twc.tsinghua.edu.cn/), [Tsinghua University, Beijing](https://www.tsinghua.edu.cn/). He is currently a junior student participating in a double bachelor's degree project, chasing for a BS degree in *Chemistry and Biology* and meanwhile a BE degree in *Chemical Engineering and Bioengineering*. He is a member of the *Spark Project* for future innovators in science and technology.
 
 Jun-Dong Zhang's **current research interests** focus on advanced materials, frontier chemistry theories, and energy storage systems, especially high-energy-density lithium batteries. His **recent works** afford insights into the phase field model (PFM) of the solid electrolyte interphase (SEI) on the surface of lithium metal anodes, which is expected to effectively guide the rational design of safe and efficient lithium metal batteries (LMB).
