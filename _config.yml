@@ -1,6 +1,6 @@
 title: Contributing for a better world
 description: Welcome to the personal website of Jun-Dong Zhang!
-show_downloads: true
+show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://harryjdzhang.github.io" # change this to the base hostname & protocol for your site
@@ -20,7 +20,6 @@ author: lorepirri
 image: /thumbnail-jumbo.png
 twitter:
    username: harryjdzhang
-email: zhangjundong19@126.com
 
 plugins:
   - jekyll-target-blank
