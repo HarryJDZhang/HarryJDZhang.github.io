@@ -7,6 +7,7 @@ image: /thumbnail-mobile.png
 author: "J.-D. Zhang"
 ---
 
+
 # Here comes the 2022 Tsinghua *Free Energy* Cup!
 <br>
 <center>
