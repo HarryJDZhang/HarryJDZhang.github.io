@@ -53,7 +53,7 @@ Teams that perform excellently in varied dimensions will **be awarded with up to
 
 **Click [HERE](https://mp.weixin.qq.com/s/oI9eoFy-urCuCmzhmzg_Nw) and then Click "Read the original text" link at the bottom to download and fill the team registration chart.** Please send the filled chart to our official e-mail address (thufreeenergy@163.com) before the due time (GMT+8, 23:59, Sept. 18, 2022).
 
-**Haven't found your teammate yet?** Don't worry! Scan the QR code below to **join the WeChat Group for potential participants**, where we have numerous enthusiasts with great innovative ideas for the car.
+**Haven't found your teammates yet?** Don't worry! Scan the QR code below to **join the WeChat Group for potential participants**, where we have numerous enthusiasts with great innovative ideas for the car.
 
 <div align=center>
 <img src="https://github.com/HarryJDZhang/HarryJDZhang.github.io/blob/master/QRCode-FreeEnergyCup.jpg?raw=true" width=180 />
