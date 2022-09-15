@@ -8,10 +8,8 @@ order: 0
 ---
 
 <div align=center>
-<img src="https://gitee.com/harryjdzhang/website-pics/raw/master/authorship-2.png" width=320 />
+<img src="https://cdn.jsdelivr.net/gh/harryjdzhang/webpic/portrait-new.png" width=320 />
 </div>
-
-![insert-pic](https://gitee.com/harryjdzhang/website-pics/raw/master/authorship-1.gif)
 
 **Jun-Dong Zhang** is an undergraduate student in [Tanwei College](https://www.twc.tsinghua.edu.cn/), [Tsinghua University, Beijing](https://www.tsinghua.edu.cn/). He is currently a junior student participating in a double bachelor's degree project, chasing for a BS degree in *Chemistry and Biology* and meanwhile a BE degree in *Chemical Engineering and Bioengineering*. He is a member of the *Spark Project* for future innovators in science and technology.
 
