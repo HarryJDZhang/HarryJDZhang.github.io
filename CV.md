@@ -8,7 +8,7 @@ order: 0
 ---
 
 <div align=center>
-<img src="https://gitee.com/harryjdzhang/website-pics/raw/master/portrait-new.png?raw=true" width=320 />
+<img src="https://gitee.com/harryjdzhang/website-pics/raw/master/portrait-new.png" width=320 />
 </div>
 
 
